@@ -1,7 +1,7 @@
-package org.example.graphqlserver.controller;
+package features.example.graphqlserver.controller;
 
-import org.example.graphqlserver.Author;
-import org.example.graphqlserver.Book;
+import features.example.graphqlserver.Author;
+import features.example.graphqlserver.Book;
 import org.springframework.graphql.data.method.annotation.Argument;
 import org.springframework.graphql.data.method.annotation.QueryMapping;
 import org.springframework.graphql.data.method.annotation.SchemaMapping;

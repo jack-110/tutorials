@@ -37,7 +37,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>org.example.graphqlserver.MyApplication</mainClass>
+                    <mainClass>features.example.graphqlserver.MyApplication</mainClass>
                     <layout>JAR</layout>
                 </configuration>
             </plugin>

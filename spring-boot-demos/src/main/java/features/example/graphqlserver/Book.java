@@ -1,4 +1,4 @@
-package org.example.graphqlserver;
+package features.example.graphqlserver;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,7 +1,6 @@
-package org.example.dynamicproxy;
+package features.example.dynamicproxy;
 
 import java.lang.reflect.Proxy;
-import java.util.Map;
 
 public class Application {
 

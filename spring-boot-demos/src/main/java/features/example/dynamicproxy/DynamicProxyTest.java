@@ -1,4 +1,4 @@
-package org.example.dynamicproxy;
+package features.example.dynamicproxy;
 
 public interface DynamicProxyTest {
     String getResult();
