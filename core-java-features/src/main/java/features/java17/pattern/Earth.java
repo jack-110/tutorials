@@ -10,8 +10,7 @@ public class Earth {
             case Integer comet -> {
                 return "Comet";
             }
-
-
+            default -> throw new IllegalStateException("Unexpected value: " + celestial);
         }
     }
 }

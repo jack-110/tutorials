@@ -27,12 +27,4 @@ public class PatternMatch {
             }
         }
     }
-
-    public String decide(Suit suit) {
-        switch (suit) {
-            case CLUBS -> {
-                return null;
-            }
-        }
-    }
 }
