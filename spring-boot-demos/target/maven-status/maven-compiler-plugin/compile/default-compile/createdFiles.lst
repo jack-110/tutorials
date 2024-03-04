@@ -1,7 +1,0 @@
-features\example\dynamicproxy\Application.class
-features\example\graphqlserver\Book.class
-features\example\graphqlserver\Author.class
-features\example\dynamicproxy\DynamicInvocationHandler.class
-features\example\dynamicproxy\DynamicProxyTest.class
-features\example\graphqlserver\controller\BookController.class
-features\example\graphqlserver\MyApplication.class
