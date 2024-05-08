@@ -6,9 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/core-java-features/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demos/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-demos/pom.xml" />
       </list>
     </option>
-    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

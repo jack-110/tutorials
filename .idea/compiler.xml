@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="core-java-features" />
         <module name="spring-boot-demos" />
+        <module name="spring-demos" />
       </profile>
     </annotationProcessing>
   </component>
