@@ -8,6 +8,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 public class Main {
     public static void main(String[] args) {
         ApplicationContext applicationContext = new AnnotationConfigApplicationContext(BeanConfig.class);
-        System.out.println(applicationContext.getBean(Bird.class));
+        Bird bird = applicationContext.getBean(Bird.class);
+        System.out.println(bird.call());
     }
 }
